@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+*.egg-info/
+
+# Pytest cache
+.pytest_cache/
+.cache/
+
+# Allure results
+allure-results/
+allure-report/
+
+# VS Code and PyCharm config
+.vscode/
+.idea/
+
+# MacOS / Windows
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Jupyter notebooks checkpoints (just in case)
+.ipynb_checkpoints/
+
+# OS-generated files
+desktop.ini
